@@ -1,0 +1,5 @@
+Petunjuk :
+1. Jalankan File diagnocheck_system.py di terminal
+2. Akan muncul window baru dari tkinter
+3. Isi gajala dari penyakit yang anda alami, kemudian klik tombol 'Hitung'
+4. Maka akan muncu diagnosis dari penyakit yang anda alami dan hasil perhitungan nilai CF, serta solusi dari penyakit yang anda alami
